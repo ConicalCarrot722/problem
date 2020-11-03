@@ -1,5 +1,5 @@
 class Sling{
-constructer(bodyA,bodyB){
+constructor(bodyA,bodyB){
     var options={
 
 bodyA:bodyA,bodyB:bodyB,length:30,stiffness:0.75
